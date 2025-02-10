@@ -12,3 +12,12 @@ A simple web application that fetches data from an API and displays it in a visu
    ```bash
    cd api-data-card
 
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
