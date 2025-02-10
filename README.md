@@ -1,3 +1,7 @@
+# API Data Card
+
+A simple web application that fetches data from an API and displays it in a visually appealing card format. This project demonstrates how to work with API integration and dynamic UI rendering.
+
 ## Installation
 
 1. Clone the repository:
